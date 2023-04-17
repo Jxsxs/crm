@@ -1,0 +1,108 @@
+
+@media (min-width: 1200px) {
+    .main-container {
+        background-color: aqua;
+        text-align: center;
+    }
+    
+    .main-container h1{
+        font-weight: bold;
+        padding-top: 10%;
+    }
+    
+    .main-container h2{
+        font-weight: bold;
+        padding-top: 2%;
+    }
+    .main-container h3{
+        font-weight: bold;
+        padding-top: 2%;
+    }
+    
+    .main-container ul li{
+        font-weight: bold;
+        padding-top: 2%;
+        list-style-type:none;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .main-container {
+        background-color: aqua;
+        text-align: center;
+    }
+    
+    .main-container h1{
+        font-weight: bold;
+        padding-top: 10%;
+    }
+    
+    .main-container h2{
+        font-weight: bold;
+        padding-top: 2%;
+    }
+    .main-container h3{
+        font-weight: bold;
+        padding-top: 2%;
+    }
+    
+    .main-container ul li{
+        font-weight: bold;
+        padding-top: 2%;
+        list-style-type:none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .main-container {
+        background-color: aqua;
+        text-align: center;
+    }
+    
+    .main-container h1{
+        font-weight: bold;
+        padding-top: 10%;
+    }
+    
+    .main-container h2{
+        font-weight: bold;
+        padding-top: 2%;
+    }
+    .main-container h3{
+        font-weight: bold;
+        padding-top: 2%;
+    }
+    
+    .main-container ul li{
+        font-weight: bold;
+        padding-top: 2%;
+        list-style-type:none;
+    }
+}
+
+@media (max-width: 768px) {
+    .main-container {
+        background-color: aqua;
+        text-align: center;
+    }
+    
+    .main-container h1{
+        font-weight: bold;
+        padding-top: 10%;
+    }
+    
+    .main-container h2{
+        font-weight: bold;
+        padding-top: 2%;
+    }
+    .main-container h3{
+        font-weight: bold;
+        padding-top: 2%;
+    }
+    
+    .main-container ul li{
+        font-weight: bold;
+        padding-top: 2%;
+        list-style-type:none;
+    }
+}

@@ -1,0 +1,41 @@
+.user-card{
+    padding-top: 2%;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    border: 1px black solid;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    background-color: turquoise;
+}
+.user-card button{
+    margin-top: 40%;
+}
+.users-container {
+    width: 100%;
+    height: 100%;
+  display: flex;
+  background-color: blueviolet;
+  overflow: hidden;
+  flex-wrap: wrap
+}
+
+@media (min-width: 1200px) {
+  
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
