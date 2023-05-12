@@ -1,0 +1,27 @@
+.users-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(131, 131, 247);
+    padding-left: 2%;
+  }
+
+.user-card{
+    position: relative;
+    width: 20vw;
+    height: 40vh;
+    border: 1px solid black;
+    font-size: 1vw;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-left: 1%;
+    padding-top: 2%;
+    margin: 5% 1% 10% 2%;
+    background-color: rgb(81, 81, 171);
+}
+
+.user-card button{
+    width: 80%;
+    height: 15%;
+    margin-top: 5%;
+    margin-left: 5%;
+}

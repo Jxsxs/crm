@@ -1,0 +1,23 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden;
+}
+
+.main-container{
+    background-color: rgb(131, 131, 247);
+    height: 80vh;
+    text-align: center;
+    padding-top: 5%;
+}
+
+ul li{
+    list-style: none;
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+.main-container h1{
+    font-size: 3vw;
+    font-weight: bold;
+}

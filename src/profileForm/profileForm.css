@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden;
+}
+
+.form{
+    text-align: center;
+    background-color: rgb(131, 131, 247);
+    width: 100vw;
+    height: 80vh;
+
+}
+
+.form h1{
+    font-weight: bold;
+    font-size: 3vw;
+    padding-top: 5%;
+}
+.form input{
+    text-align: center;
+    width: 60vw;
+    height: 8vh;
+    margin-top: 3% ;
+    font-size: 1.5vw;
+    font-weight: bold;
+    border-radius: 15px;
+    border: 3px solid black;
+}
+
+.form button{
+    margin-top: 3%;
+    border-radius: 15px;
+    width: 40vw;
+    height: 8vh;
+    font-size: 1.5vw;
+    font-weight: bold;
+}

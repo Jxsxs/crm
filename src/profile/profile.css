@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden;
+}
+
+.profile{
+    background-color: rgb(131, 131, 247);
+    width: 100vw;
+    height: 80vh;
+}
+
+.profile h1{
+    text-align: center;
+    padding-top: 3%;
+    font-weight: bold;
+    font-size: 3vw;
+}
+
+.profile-info{
+    margin-left: 30%;
+}
+
+.profile-info h2{
+    margin-top: 2%;
+    font-weight: bold;
+    font-size: 2.5vw;
+    text-decoration: underline;
+}

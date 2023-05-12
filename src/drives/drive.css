@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden;
+}
+
+.drive-container{
+    background-color: rgb(131, 131, 247);
+    text-align: center;
+}
+
+.drive-container h1{
+    width: 60%;
+    padding-top: 5%;
+    margin: 0 auto;
+    font-size: 2.5vw;
+    font-weight: bold;
+}
+
+.drive-container input{
+    text-align: center;
+    width: 60vw;
+    height: 8vh;
+    margin-top: 3% ;
+    font-size: 1.5vw;
+    font-weight: bold;
+    border-radius: 15px;
+    border: 3px solid black;
+}
+
+.drive-container button{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border-radius: 15px;
+    width: 40vw;
+    height: 8vh;
+    font-size: 1.5vw;
+    font-weight: bold;
+}

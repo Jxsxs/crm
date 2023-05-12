@@ -1,0 +1,52 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x:hidden;
+}
+
+.login-form{
+  padding-top: 4vh;
+  padding-bottom: 4vh;
+  margin: auto;
+  border: 15px solid blue;
+  width: 45vw;
+  border-radius: 40px;
+  display: block;
+  text-align: center;
+  margin-top: 5vh;
+}
+.login-form input{
+  width: 80%;
+  height: 5vh;
+  border-radius: 10px;
+  margin-top: 5vh;
+  text-align: center;
+}
+
+.login-form button{
+  border-radius: 15px;
+  width: 30vw;
+  height: 7vh;
+  font-size: 1.5vw;
+  font-weight: bold;
+  margin-top:10%;
+  text-align: center;
+}
+.login-form h1{
+  font-weight: bold;
+}
+.login-form p{
+  font-weight: bold;
+  margin-top: 10%;
+}
+.login-form img{
+  height: 10vh;
+  width: 10vh;
+  margin: 0 5% 10% 5%;
+  cursor: pointer;
+}
+.login-form a{
+  cursor: pointer;
+  padding-top: 15vh;
+}
